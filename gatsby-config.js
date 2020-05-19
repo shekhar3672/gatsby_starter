@@ -39,7 +39,7 @@ module.exports = {
     'gatsby-transformer-yaml',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
-    'gatsby-plugin-emotion',
-    pathPrefix: "/gatsby_starter",
-  ]
+    'gatsby-plugin-emotion'
+  ],
+  pathPrefix: "/gatsby_starter",
 };
